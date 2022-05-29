@@ -1,0 +1,5 @@
+---
+id: part
+---
+
+Lorem ipsum
